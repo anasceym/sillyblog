@@ -35,5 +35,6 @@ bower.json
 .powenv
 
 *.sublime-project
+*.sublime-workspace
 
 config/database.yml
